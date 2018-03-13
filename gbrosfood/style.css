@@ -1,0 +1,45 @@
+@import url(https://fonts.googleapis.com/earlyaccess/cwtexkai.css);
+body{
+  margin: 0% 5%;
+  text-align: center;
+  font-family: Arial,Georgia,"cwTeXKai";
+}
+#logo{
+  color:rgb(255, 99, 71);
+  font-size: 50px;
+  text-align:center;
+  font-family: Georgia,"cwTeXKai";
+ }
+#power{
+  text-align:center;
+  font-family: "Times New Roman";
+  padding-left: 250px; 
+}
+.content {
+  margin: 1px;
+  border: 5px solid rgb(192,192,192);
+  font-size: 15px; 
+  width: 30%;
+  float: left;
+  text-align: center;
+}
+.food,.store,.price,.point,.word{
+  padding-left:20px;
+  text-align: left;
+}
+.food{
+  font-weight:bold;
+  font-size: 25px;
+
+}
+.store{
+  color: #134484;
+  font-weight:bold;
+  font-size: 20px;
+}
+img{
+  display: block;
+  margin: auto;
+  width:80%;
+}
+
