@@ -31,6 +31,18 @@ body{
   position: fixed;
   top:15px;
 }
+#escape{
+  z-index:4;
+  width:40px;
+  height:40px;
+  margin-right:5vw;
+  background-repeat: no-repeat;
+  float:right;
+  background-size:contain;
+  background-image: url(https://luffy.ee.ncku.edu.tw/~E24056140/picture/Grey_close_x.svg.png);
+  position: fixed;
+  top:15px;
+}
 #logo{
   color:rgb(255, 99, 71);
   font-size: 50px;
