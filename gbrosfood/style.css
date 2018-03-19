@@ -23,7 +23,7 @@ body{
   z-index:4;
   width:40px;
   height:40px;
-  margin-left:5vw;
+  left:5vw;
   background-repeat: no-repeat;
   float:left;
   background-size:contain;
@@ -35,7 +35,7 @@ body{
   z-index:4;
   width:40px;
   height:40px;
-  margin-right:5vw;
+  right:5vw;
   background-repeat: no-repeat;
   float:right;
   background-size:contain;
