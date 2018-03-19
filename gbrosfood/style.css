@@ -19,6 +19,18 @@ body{
   background-color:#FFFFFF;
   box-shadow:0px 0px 5px 3px #DEE1E5;
 }
+#setting{
+  z-index:4;
+  width:40px;
+  height:40px;
+  margin-left:5vw;
+  background-repeat: no-repeat;
+  float:left;
+  background-size:contain;
+  background-image: url(https://luffy.ee.ncku.edu.tw/~E24056140/picture/WMF-Agora-Settings_808080.svg.png);
+  position: fixed;
+  top:15px;
+}
 #logo{
   color:rgb(255, 99, 71);
   font-size: 50px;
